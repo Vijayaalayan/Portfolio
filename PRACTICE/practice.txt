@@ -1,0 +1,5 @@
+remove text use diplay = none
+hide text use visibility = hidden
+
+red = energy
+yellow = attention
